@@ -925,11 +925,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 1081b779-7245-4c77-87aa-6cd101dc4825
+  cloudProjectId: e3b0527b-e288-46a6-9d99-0c8fb0d2798d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: anomaly
-  organizationId: nickgerd
+  projectName: Anomaly
+  organizationId: nibbawhaterf1
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

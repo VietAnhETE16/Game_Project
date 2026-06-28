@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "anomaly.slnx"
+    "dotnet.defaultSolution": "anomalyy.slnx",
+    "dotnet.enableWorkspaceBasedDevelopment": false
 }
